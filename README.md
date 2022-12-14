@@ -1,4 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ik0nw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ik0nw&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ik0nw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ik0nw&theme=react&layout=compact&hide=css,html" alt="bitxer's Top Languages">
+</p>
